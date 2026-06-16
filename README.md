@@ -1,4 +1,4 @@
-# 📦 Packing Calculation App | Packing-Optimization-App-PowerApps-Engineering
+# 📦 Engineering Analytics Project | Packing Optimization Tool (Power Apps)
 
 ## 🚀 Overview
 This project showcases a **Power Apps application** developed to support **engineering calculations for packing optimization**, ensuring material protection during **storage and transportation operations**.
