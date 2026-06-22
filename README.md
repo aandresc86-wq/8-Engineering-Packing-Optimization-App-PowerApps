@@ -12,11 +12,12 @@ Inefficient packing configurations can lead to material damage, increased costs,
 
 ---
 
-## ✅ Business Impact  
-- Enabled optimized packing calculations for improved material protection  
-- Reduced risk of damage during transportation and storage  
-- Improved efficiency in logistics and handling processes  
-- Provided a scalable tool for engineering decision-making  
+## 💼 Business Impact
+- Reduced manual engineering calculations  
+- Improved **process consistency and efficiency**  
+- Enhanced **material protection and product safety**  
+- Lower risk of damage during logistics operations  
+- Faster and more reliable **decision-making process**  
 
 ---
 
@@ -110,15 +111,6 @@ This tool supports scenarios such as:
 - **Industrial Engineering**
 - **Data Input Forms**
 - **Risk Assessment**
-
----
-
-## 💼 Business Impact
-- Reduced manual engineering calculations  
-- Improved **process consistency and efficiency**  
-- Enhanced **material protection and product safety**  
-- Lower risk of damage during logistics operations  
-- Faster and more reliable **decision-making process**  
 
 ---
 
